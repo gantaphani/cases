@@ -1,0 +1,45 @@
+this is a diversity action between adr north america,adr,a michigan consulting company and agway,agway,a new york agricultural cooperative.defendant agway retained adr to help it restore its retail arm to profitability.after receiving several months of service from adr,agway hired one of adr employees and terminated the contract.adr sued in federal court alleging breach of contract and tortious interference with an employment relationship under michigan law.the district court granted summary judgment to agway.adr now appeals.
+because adr has failed to come forward with evidence to create a genuine issue of material fact as to whether agway is entitled to judgment as a matter of law,we affirm the district court judgment.
+background 
+a.the parties 
+adr is a management consulting agency that specializes in corporate purchasing practices.agway is a new agricultural cooperative that saw its retail division,agway retail services ars,decline in profitability during and.among the problems with ars was inefficiency in its purchasing department,which annually purchased between and million in products.
+b.the proposal and terms 
+in,adr chief executive officer,william michels,contacted agway with a proposal to provide consulting services to agway.michels was invited to a subsequent meeting before agway senior management in.following the meeting,donald schalk,of ars,requested that adr submit a written sales proposal to him.
+on february,adr sent schalk a document entitled agway opportunity for competitive advantage through enhanced purchasing proposal and plan the proposal,which outlined the various objectives and mechanics of the proposed consulting engagement.attached to and referenced by the proposal was another document,the adr standard terms and conditions of business the terms.key to the present lawsuit,the terms included provisions that governed the formation and amendment of the contract and prohibited the solicitation of adr personnel 
+formation of contract 
+a.these terms and conditions of business shall form part of the contract between the client and adr for the provision by adr of the services set out in the assignment unless otherwise agreed in writing by adr.
+b.the assignment means the latest in date of the written proposal or engagement letter issued by adr and the client acceptance thereof and the document if any issued by the client to commission the services of adr and adr written acceptance thereof.
+c.the contract shall comprise the assignment,these terms and any amendments thereto.
+all amendments to the contract must be in writing and signed by or on behalf of the client and adr 
+f.in the event of any conflict between these terms and the assignment or any other document which forms part of the contract,these terms shall prevail except where they have been amended by specific reference to the relevant clause and paragraph of these terms as provided for herein.
+a.during the term of the contract and for a period of six months after it sic termination neither adr nor the client will directly or indirectly solicit,seek or procure the services of any employee of the other party connected with the contract other than by general advertising without the prior written consent,and upon such terms specified by the other party.
+at.no one at agway or ars signed the proposal or terms,and schalk testified that he never read the terms.
+on february,schalk and ars executive bruce dailey met with adr michels to discuss the proposal and the transfer of ars purchasing data to adr.michels testified that schalk told him that they were going to go forward with the proposal.
+confidentiality agreement 
+on march,agway and adr signed a confidentiality agreement.the confidentiality agreement provided that t he agreement contains the entire agreement of the parties with respect to the subject matter of this agreement and supercedes all prior understandings or agreements.adr was required to sign this agreement with agway before it could review ars purchasing and financial records.after reviewing the records,adr projected that it could save agway million.
+supply agreement 
+michels testified that he and mark goodman,an adr consultant,began interviewing ars employees and reviewing records on march.during this time,adr drafted a supply agreement the supply agreement contained 
+a a term that specified the purpose of the agreement 
+purpose of agreement 
+adr has been retained by ars to provide purchasing consulting services from march,to march.
+adr has produced a proposal detailing the scope,objectives and deliverables from the project.adr will use its best endeavors to complete the assignment in the proposed timescale.
+b a term that incorporated by reference the march,confidentiality agreement 
+confidentiality 
+the parties hereto and respective employees and directors of each shall maintain the confidentiality of information provided to the other pursuant to the terms of the confidentiality agreement between ars and adr attached,the terms and conditions of which are hereby incorporated by reference.
+c a payment term 
+fees and expenses 
+retainer ars will pay a monthly retainer to adr of for the period of,through march.in addition,ars will pay adr a performance bonus on all savings achieved during the months of this contract.this performance bonus is payable in two payments as cost savings are agreed.payment is due november,and payment is due may,payment is based on savings realized to date,less the amount of payment.
+d and an integration or merger clause 
+miscellaneous clauses 
+this agreement constitutes the entire agreement with respect to the subject matter hereof and shall not be amended orally,but only by an agreement in writing signed by both parties that states that it is an amendment to this agreement.
+at.although paragraph one provided that the contract was effective from march,to march,the document was signed and dated march.
+hiring of mark goodman by agway 
+schalk testified that goodman,one of adr consultants,aggressively was pursuing employment opportunities with agway in late september or early october of.schalk alleged that while presenting a new organizational chart,goodman campaigned for himself to fill the new position of vice president of strategy and development.schalk asked goodman for a resume and references in october and sent goodman a written offer of employment that same month.
+termination of consulting relationship 
+after agway hired goodman,it appears that the relationship between the two companies quickly soured.adr wrote agway on december,in an attempt to salvage the consulting project.despite this effort,agway sent a letter dated december informing adr that the relationship between the companies has deteriorated to the point that continuation of the contract is no longer a viable option.agway letter concluded that the contract dated march,is hereby terminated.the letter assured adr that agway would pay the monthly retainer through march,and pay the performance bonus on savings it actually realized by may.shortly thereafter,agway refused to pay adr the performance bonus on the grounds that it never realized any net savings for the term of the supply agreement.
+adr filed suit in federal district court on september.the district court addressed three issues whether agway breached the contract between adr and agway by hiring goodman whether agway tortiously interfered with the employment relationship between adr and goodman and whether agway breached the contract by refusing to pay adr the performance bonus.
+both sides sought summary judgment.the district court heard oral argument on march,and on the same day issued an oral ruling that granted agway summary judgment on all three issues 
+adr now appeals.
+ii.discussion 
+standard of review 
+we review the district court grant of summary judgment de novo.see smith ameritech,cir.summary judgment is appropriate when there is no genuine issue of material fact and the moving party is entitled to judgment as a matter of law.see.c.in deciding a motion for summary judgment,the district court must view the evidence in the light most favorable to the party.see matsushita indus.zenith radio,d.the operative ques

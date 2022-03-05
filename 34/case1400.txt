@@ -1,0 +1,41 @@
+opinion of the court 
+before us is the government appeal of an order entered by the district court granting the motion of kenneth williams to dismiss the indictment on double jeopardy grounds,which followed the court grant of williams motion for a mistrial.the principal issue is the legal standard to be applied by the district court in considering a motion to dismiss an indictment for what the district court viewed as prosecutorial misconduct.
+county detectives who were engaged in an undercover investigation into the distribution of cocaine base crack had arrest warrants for williams based on information that he had sold crack to detectives and cooperating sources.they seized williams when the car he was driving came to rest in the parking area next to the travel lodge in pottstown,pennsylvania.according to the testimony of several of the detectives,after they arrested williams they seized bags of crack cocaine from his pocket.some detectives proceeded to williams residence where,according to their testimony,they intended to wait for search warrants which other detectives were seeking.williams girlfriend lived in the house and initially refused the request to search.she later consented when she learned that kevin jones,who occupied the basement apartment,had a firearm under the futon where he had been sleeping.the detectives then searched the premises and seized additional drugs and two handguns,the one in jones futon and one in a closet near the front door.after the arrest,williams was questioned at the police station and,according to the government,admitted to dealing in crack cocaine but denied possession of the handguns.
+the district court thereafter granted williams motion to suppress the evidence seized from his residence on the ground that his girlfriend consent was not voluntary but denied williams motion to suppress his confession.williams,who had felony drug convictions in and,moved in limine to preclude introduction of those prior drug felonies,but withdrew the motion after the government agreed in writing that it would not present that evidence in its.the government,nonetheless,reserved the right to use that evidence on if williams testified.
+williams had been charged on three counts,but in light of the suppression order the government proceeded to trial on only the count alleging possession with intent to distribute more than five grams of cocaine base in violation of a based on the bags of crack that the government contends was seized from williams pocket when he was arrested.
+as it had agreed,the government presented its case without introducing evidence of williams prior felony drug convictions.williams then took the stand to begin the defense portion of the case.he denied that he had made arrangements for a drug sale at the travel lodge.he denied that he had been carrying drugs when arrested and denied that he had confessed to selling drugs.the by the assistant attorney proceeded as follows 
+q.you never said you sell bags for five dollars a piece right 
+q.as a matter of fact,you acted like you had no idea how much bags of cocaine sell for right 
+actually,the officer asked me how much do a he made the signs with his fingers,he said how much do a bag like this go for,like a bag this small i said,i do know,probably five dollars.
+q.you say probably,you not familiar with the drug trade 
+yes,you are familiar with the drug trade 
+yes,i grew up around drugs all my life.
+q.as a matter of fact,you have two prior convictions for selling drugs 
+defense counsel objection,your honor.
+the court objection sustained.
+defense counsel may we see you at side bar may we see your honor 
+the court yes,indeed.
+at side bar 
+the court yes 
+defense counsel responds,and his response is totally inaudible.
+the court are you asking for one now i inclined to grant it,if you do,but i might also say if i grant a mistrial,it will be with the condition that any retrial both sides are represented by different lawyers.what obviously happening here is that the police were dealing with the drugs that were found in the house,which have been suppressed,and they getting that in by the back door,and confusing the witness.
+atty that not true,judge.
+the court of course it is.
+defense counsel judge,it a point they trying to get his prior convictions in through the back door as well.
+the court do do it again.if you not moving for a mistrial,i wo grant it.
+end of side bar.
+the court the jury will disregard that last question.do you have something that permissible let hear it.
+atty your honor,may we see you at side bar again 
+the court no.
+the then proceeded for a page and a half of the transcript concerning williams biographical information.the following question was then asked 
+q.williams,back in you were convicted of selling drugs back then correct 
+defense counsel objection,your honor.
+the court objection sustained.
+defense counsel i move for a mistrial.
+the court and that will mistrial will be granted.
+williams thereafter moved to dismiss the indictment.after a hearing,the district court granted the motion to dismiss the indictment.the court issued an opinion dated july.it noted that it had sustained defendant objection to the prosecutor question with respect to williams two prior convictions for selling drugs and that it had directed the prosecutor not to pursue that line of questioning again id.at.the court noted that the prosecutor shortly thereafter asked williams if he was convicted back in of selling drugs.the district court stated that b y promptly disobeying the court instruction and inquiring about a previous conviction,the prosecutor must have known that it would trigger a mistrial.id.at.the district court acknowledged that mere harassment or overreaching which results in a mistrial is not enough to bar retrial under the double jeopardy clause,but stated that the prosecutor,like everyone else,must be deemed to have intended the readily foreseeable consequences of his actions,and concluded that the i ndictment must be dismissed.id.
+the government argues that the district court misapplied the legal standard as to when double jeopardy attaches following a mistrial.the relevant standard was enunciated by the supreme court in oregon kennedy,d,where the court stated 
+prosecutorial conduct that might be viewed as harassment or overreaching,even if sufficient to justify a mistrial on defendant motion does not bar retrial absent intent on the part of the prosecutor to subvert the protections afforded by the double jeopardy clause.a defendant motion for a mistrial constitutes a deliberate election on his part to forgo his valued right to have his guilt or innocence determined before the first trier of fact.united states scott,d.where prosecutorial error even of a degree sufficient to warrant a mistrial has occurred,t he important consideration,for purposes of the double jeopardy clause,is that the defendant retain primary control over the course to be followed in the event of such error.united states dinitz,d.only where the governmental conduct in question is intended to goad the defendant into moving for a mistrial may a defendant raise the bar of double jeopardy to a second trial after having succeeded in aborting the first on his own motion.
+emphasis added.
+the court noted that in its earlier opinions it had also focused on the government intent.it cited,inter alia,united states dinitz,d,where the opinion spoke in terms of governmental actions intended to provoke mistrial requests,at,and united states difrancesco,d,where the court said that reprosecution of a defendant who has successfully moved for a mistrial is not barred,so long as the government did not deliberately seek to provoke the mistrial request.kennedy,at.
+shortly after the kennedy decision was announced,this court was presented with a somewhat similar issue in united states curtis,cir.when the case first came to this court,we reversed the conviction and directed a new trial because the prosecutor had remarked about the defendant silence in direct contravention of the district judge warning.on remand,the district court held that further prosecution of the defendant was barred by the double jeopardy 

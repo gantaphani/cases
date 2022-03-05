@@ -1,0 +1,88 @@
+opinion of the court 
+this is an appeal from the order of the district court denying the petition of john martini,for a writ of habeas corpus brought pursuant to a.martini was convicted of murder and related offenses in connection with the disappearance and death of irving flax,a fairlawn,new jersey businessman.flax was forcibly taken from his home by martini and his,therese afdahl.the pair demanded ransom money from flax wife and although flax paid the money,martini murdered flax by three pistol shots to the back of the head,and left his body in a parking lot.it was not disputed that martini committed the crime rather,the defense challenged the state claim that he acted purposely or knowingly,adducing evidence that martini capacity was diminished by serious and addiction to cocaine.the jury rejected that defense at both the guilt and penalty phases of the trial,and martini was sentenced to death.martini seeks to overturn his sentence,alleging,inter alia,that a potential juror was improperly dismissed for cause in violation of witherspoon illinois,d,and also that the trial court improperly answered a jury question regarding the permissible use of mitigating evidence,the two issues on which we granted a certificate of appealability coa.
+we have no difficulty with the latter point,and reject martini contention.the former issue is,however,close and difficult with respect to juror ronald vladyka though not with respect to two other jurors with respect to whom a coa was not issued.martini presents a forceful argument that the ability of juror ronald vladyka to follow the trial court instructions as to the penalty phase was not substantially impaired,and that he should have been seated on the jury.we conclude,however,that martini has failed to meet the rigorous standard of e for rebutting,by clear and convincing evidence,the presumption of correctness of the finding of the state trial judge,affirmed by the new jersey supreme court,that vladyka ability was substantially impaired,and hence we will affirm the order of the district court.
+procedural history standard of review 
+after a bergen county,new jersey jury convicted martini of the flax kidnapping and murder,the new jersey supreme court upheld the conviction and death sentence on direct appeal.state martini.although martini was initially scheduled to be executed in,the public defender successfully sought a stay and in the ensuing years has filed several appeals alleging,inter alia,psychiatric incompetence to waive relief proceedings,ineffective assistance of counsel,and violation of martini brady right to exculpatory evidence.the new jersey supreme court affirmed the trial court denial of relief on each of these grounds.state martini,state martini,state martini,state martini.
+martini then sought a writ of habeas corpus in the district court for the district of new jersey under,challenging his death sentence on seven grounds listed in the margin the district court denied the petition in all respects.although martini sought relief on all seven grounds,we granted a coa on only the two referenced above.the district court had jurisdiction pursuant to and,and we exercise appellate jurisdiction under and.although our review of the district court decision is plenary,marshall hendricks,cir,under the antiterrorism and effective death penalty act of aedpa and the supreme court decision in williams taylor,d,we must deny federal habeas corpus relief to any claim which was adjudicated on the merits in a state court proceeding unless such adjudication 
+resulted in a decision that was contrary to,or involved an unreasonable application of,clearly established federal law,as determined by the supreme court of the united states or 
+resulted in a decision that was based on an unreasonable determination of the facts in light of the evidence presented in the state court proceeding.
+in this statutory scheme of legal deference,only the unreasonable determination prong of d is potentially applicable to martini witherspoon claim.see,kinder bowersox,cir.also relevant to the analysis is e 
+in a proceeding instituted by an application for a writ of habeas corpus by a person in custody pursuant to the judgment of a state court,a determination of a factual issue made by a state court,shall be presumed to be correct.the applicant shall have the burden of rebutting the presumption of correctness by clear and convincing evidence.
+see wiggins smith,d applying the standard.
+ii.wrongful exclusion of a prospective juror 
+during voir dire,persons were individually questioned by the court and counsel.over defense counsel objection,the trial court excluded for cause prospective juror ronald vladyka because the court believed that his answers to the prosecutor and public defender questions demonstrated that he would have substantial difficulty voting for the death penalty.martini argues that vladyka exclusion constitutes an unreasonable determination of the facts in light of the evidence presented in state court.as we have explained elsewhere,witherspoon holding is grounded in the right to a fair and impartial jury guaranteed to state criminal defendants by the sixth and fourteenth amendments,and thus veniremen can be excluded based on their views on capital punishment only if they would be biased and lack impartiality in hearing the case.szuchon,at.a trial court conclusion that a potential juror would be biased is a factual determination,see id.at,and it is therefore entitled to a presumption of correctness under e.
+it is clear that potential jurors may not be excused for cause simply because they voiced general objections to the death penalty or expressed conscientious or religious scruples against its infliction.witherspoon,at.instead,the supreme court has explained that the standard for exclusion is whether a potential juror views would prevent or substantially impair the performance of his duties as a juror in accordance with his instructions and his oath.wainwright witt,d quoting adams texas,d.it emphasized that the determination of juror bias is a factual one that need not be proven with unmistakable clarity.id.at.in this type of case,it is crucial to examine the transcript in detail.although we will discuss relevant portions of it in this opinion,because the reader may find it useful,we have attached the entire transcript,which is relatively short,as an appendix to this opinion.
+it is beyond dispute that vladyka was personally opposed to the death penalty 
+do you have any feelings or beliefs about the death penalty 
+i do believe in it.
+under any circumstances 
+well,i do know.i just do believe in it.i ca really give a reason why.
+do you think there are any crimes where the death penalty is an appropriate penalty 
+none at all 
+no,not really.
+the law,however,is clear that mere personal opposition to the death penalty is not cause for exclusion if the prospective juror would nevertheless be able to follow his oath and apply the death penalty if the facts and law required.see szuchon,at holding improper the removal of a prospective juror for cause where the court found no evidence that his lack of belief in capital punishment would have prevented or substantially impaired his ability to apply the law.the court,the defense counsel,and the prosecutor all questioned vladyka as to the extent to which his personal views might inhibit his ability to vote to impose capital punishment.we will detail vladyka responses.
+the court proceeded first 
+do you feel that your beliefs about the death penalty would adversely affect your ability to fairly and impartially determine guilt or innocence 
+q.as a sworn you be able to weigh the aggravating and mitigating factors,the evidence on both sides,apply the principles of law as i explain,and if the facts you be able to vote to impose the death penalty 
+that a hard situation.you know,you do know the facts,okay.
+that what i said you do know the facts,but let assume there are no mitigating factors,only aggravating factors,or the aggravating factors outweigh the mitigating factors to such a degree that based on the law,as i explain it,you have no choice 
+would you be able to vote to impose the death penalty 
+the public defender then questioned vladyka 
+q.the issue really is regardless of how you feel about the death penalty,and you seem to be adverse to it,can you mechanically follow instructions with some thought if the judge says you got to make a certain decision regardless of how reluctant you may feel to do so,can you follow the law as the judge gives it to you 
+q.it may be that some of the mitigating factors the judge may let you hear and we do know.we a week away,maybe john age could be that he was acting strangely about the time of the incident,not so strange as to be a defense because you already decided he guilty but strange enough to argue that he should go to jail for years instead.you may hear some testimony that he was using illegal drugs,not to forgive him because you decided he did it but as mitigating factors to argue that he should do years instead of life.can you make that weighing process 
+yes,i think so,sure.
+the prosecutor then asked vladyka 
+were you surprised to hear what kind of case it was 
+and your thoughts up until then were that you individually were opposed to the death penalty is that correct 
+knowing that that your feeling,do you really think you be able to sit and listen to the evidence if we get to the penalty phase,listen to the evidence and give the state a fair shot in other words,would you be able to consider imposing the death penalty 
+i guess so.
+q.so your feelings are that strong that it would prevent you from 
+no,not really,either way.
+because it not going to be a hypothetical situation anymore.you going to be dealing with the life of a real human being.can you make that weighing process and would you be able to say in open court john martini should get the death penalty 
+the court if the facts warranted.
+q.if the facts warranted 
+the court and that what the jury found 
+i know it is a hard question.
+it a hard question.
+q.so you really ca say 
+not really.
+the public defender then sought to rehabilitate vladyka 
+q.the real question that we have to know is can you do both,having made the weighing process of aggravating and mitigating factors,are you capable in the proper circumstances to send john martini to death row 
+i guess if everything was in place and i believed in it,i mean,you know it is hard to say yes or no.
+let assume that there is no proof to some extent of mitigating circumstances,but there is proof only of aggravating circumstances.it a drastic example,but it is a possibility.knowing that only aggravating circumstances are in and let say the law is and the judge tells you that if there is no proof of mitigating circumstances,you really have no decision as a juror and he should die,could you do that 
+i guess so.
+okay.now when you say i guess so,and that a problem.does that mean yes,reluctantly yes 
+knowing the man life is at stake,you have got to make a decision,you could could sic that 
+i guess so,sure.
+finally,the court asked 
+the court if maybe you are the foreperson,if he is the foreperson,would you be able to announce that verdict in open court 
+the court thank you,sir.i going to excuse you.
+vladyka responses to certain questions surely create considerable doubt as to whether he could separate his personal beliefs his opposition to the death penalty from the task at hand.in response to the prosecutor question can you make that weighing process and would you be able to say in open court john martini should get the death penalty,vladyka answered i do know it a hard question.similarly,when asked are you capable in the proper circumstances to send john martini to death row,he replied,i guess if everything was in place and i believed in it,i mean,you know it is hard to say yes or no.he also intimated that he could render a decision only reluctantly.
+on the other hand,when asked would you be able to vote to impose the death penalty vladyka answered,yes,sir.he also confirmed in at least six other places,with various degrees of conviction,that he would be able to engage in the weighing process and would be able to vote for death if the facts warranted 
+can you follow the law as the judge gives it to you 
+yeah,sure.emphasis added.
+q.you may hear some testimony that he was using illegal drugs,not to forgive him because you decided he did it but as mitigating factors to argue that he should do years instead of life.can you make that weighing process 
+yes,i think so,sure.emphasis added.
+d o you really think you be able to sit and listen to the evidence if we get to the penalty phase,listen to the evidence and give the state a fair shot in other words,would you be able to consider imposing the death penalty 
+i guess so.
+q.so your feelings are that strong that it would prevent you from 
+no,not really,either way.emphases added.
+knowing that only aggravating circumstances are in and let say the law is and the judge tells you that if there is no proof of mitigating circumstances,you really have no decision as a juror and he should die,could you do that 
+i guess so.emphasis added.
+knowing the man life is at stake,you have got to make a decision,you could could sic that 
+i guess so,sure.emphasis added.
+the inevitable question is how to interpret the i think so and the i guess so,which constitute the bulk of vladyka affirmative responses to the effect that he could vote to impose the death penalty.if we were to translate them into a solid yes,we might be constrained to say that while vladyka was impaired in his ability to follow the court instructions,he was not substantially impaired,under the witherspoon standard,and hence he should have stayed on the jury.there are,however,two problems with that analysis.first,the state trial judge,who saw and sized up vladyka,and who on one occasion had to ask him to speak up,observed his frequent tentative responses and was obviously of the view that i think so and i guess so were not affirmative but equivocal.under aedpa that evaluation is entitled to a very substantial deference.moreover,the exercise of between impaired and substantially impaired seems highly tenuous under the aedpa standard of review.
+we note that vladyka strongest statement of conviction was only when the questions posed him posited that he had no choice.see supra at.immediately afterward,however,in response to the prosecutor question whether he would be able to vote for the death penalty,he was entirely noncommittal 
+because it not going to be a hypothetical situation anymore.you going to be dealing with the life of a real human being.can you make that weighing process and would you be able to say in open court john martini should get the death penalty 
+the court if the facts warranted.
+q.if the facts warranted 
+the court and that what the jury found 
+i know it is a hard question.
+it a hard question.
+q.so you really ca say 
+not really.
+the trial judge estimate of vladyka seems also to have been informed by the stated unwillingness to announce the verdict as foreperson in open court.we will assume that a juror has no obligation to serve as foreperson.alderman austin,cir.unit b,reinstated en banc,indeed,a stated inability to read a guilty verdict in open court might simply reflect a potential juror private nature or fear of making controversial statements in public.that does not mean,however,that the trial court could not consider it along with the other indicia of vladyka ability to follow the court instructions see,state johnson,isaacs state.
+we do not gainsay that martini has made a plausible argument that,while vladyka may have been somewhat impaired in his ability to follow the court instructions,he was not substantially impaired,as witherspoon requires.but we are constrained by our standard of review.we can not say by clear and convincing evidence that the state trial judge,who saw vladyka and doubtless sized him up,was incorrect in his finding.
+the order of the district court denying the petition for a write of habeas corpus will therefore be affirmed.
+iii.the trial court answer to the jury question 
+we also granted a coa to consider whether the trial judge answer to a question for the jury during its deliberations resulted in punishment imposed in violation of the eighth amendment

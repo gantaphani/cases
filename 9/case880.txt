@@ -1,0 +1,42 @@
+daniel trottier trottier,a vermont state police officer,appeals from an order entered in the united states district court for the district of vermont reiss,denying his motion for qualified immunity in a claim brought by motorist marie winfield winfield under,alleging that trottier violated her fourth amendment rights when,while searching her car with her consent during a traffic stop,he read a piece of her mail.
+at issue is the scope of winfield consent to the search of her car,which is determined by looking at what a reasonable person would have understood by the exchange between trottier and winfield.we conclude that,while the scope of winfield consent was not limited to a search for any particular object of contraband,it did not extend to the text of her mail.however,since this right was not clearly established at the time of the search,trottier is entitled to qualified immunity.we therefore reverse.
+background 
+the district court found that the following facts were undisputed.on may,winfield was driving north on interstate in vermont,en route to visit her father in montreal.trottier,a state trooper,stopped her for driving twenty miles per hour over the limit,and was inspired to search the car by certain things he deemed suspicious the passenger,winfield son jason,avoided making eye contact with him and winfield was eating a powerbar in what he regarded as a hurried manner.winfield trottier,cv,wl,at.
+as trottier was waiting for verification of winfield identity,he approached the car and asked,winfield,you do have to if you do want to,but while we waiting,would you mind coming back here for a minute behind the car and talk ing to me for a second she got out and walked with trottier to the back of her car while state trooper aimee nolan arrived on the scene,as backup.
+the following exchange ensued 
+trottier listen,is there anything in there i should know about you seemed awfully nervous when i was talking with you your hand was shaking and you you had,like,a leg tremor going on.no 
+winfield not that i know of.
+trottier oh,okay.not that you know of,or there nothing it just kind of,you know,piqued my interest there.
+winfield really 
+trottier because when i was talking with you,you were shaking your voice was shaking.
+winfield explained that she was probably tired because her daughter high school graduation was the previous night.the conversation continued 
+trottier okay.okay.there nothing in there i should know about is there no guns or money 
+winfield you can look if you want.
+trottier oh you do mind do you mind no no large sums of money in there or no okay.
+winfield be my guest.
+trottier okay.
+winfield you can look.
+trottier okay.here.hold on one second.
+winfield inside my trunk 
+trottier okay.
+winfield i do know inaudable 
+trottier here.do me a favor,okay 
+winfield i do have anything.
+trottier what that 
+winfield no,i do have anything in there.my 
+trottier okay.oh,just stay over here for a second.i do want you to get run over.do you mind 
+winfield i was just going to pop my trunk.
+trottier oh,that okay.do you mind if i look through do do you mind you do mind okay.do me a favor.stand over here for me.you do have anything on you we should know about,do you no guns or bombs or anything like that 
+winfield inaudible.
+trottier no okay.
+after patting down jason with his consent,trottier searched the car.trottier,who admits he was not looking for anything in particular,found an envelope addressed either to or from a court,opened it and read what was inside.it was a court document pertaining to the arrest of winfield husband for possession,and a letter that winfield had written to a judge.id.at.after finishing the search and finding nothing,he issued a speeding citation and the winfields proceeded on their way.
+the winfields sued,alleging,inter alia,violations of the fourth amendment prohibition of unreasonable searches and seizures.the district court concluded that no reasonable understanding of the exchange between winfield and trooper trottier could be construed as consent for trooper trottier to read winfield mail,regardless of to whom or from whom the mail was addressed.id.at.the court denied qualified immunity because i t was at the time of the search that i t is a violation of a suspect fourth amendment rights for a consensual search to exceed the scope of the consent given.id.at quoting united states mcweeney,cir second alteration in original.
+discussion 
+the court reviews de novo a decision on a motion for summary judgment.mario p c food,cir see also miller wolpoff abramson,cir.summary judgment is appropriate if there is no genuine dispute as to any material fact and the moving party is entitled to judgment as a matter of law.miller,at.in assessing a motion for summary judgment,the court is required to resolve all ambiguities and draw all permissible factual inferences in favor of the party against whom summary judgment was granted.terry ashcroft,cir internal quotation marks omitted.
+qualified immunity protects officials from liability for civil damages as long as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known.gilles,cir quoting harlow,d.in deciding qualified immunity,courts ask whether the facts shown i make out a violation of a constitutional right,and ii whether the right at issue was clearly established at the time of defendant alleged misconduct.pearson,d internal quotation marks omitted.
+to be clearly established,t he contours of the right must be sufficiently clear that a reasonable official would understand that what he is doing violates that right.anderson creighton,d.in this way,qualified immunity shields official conduct that is objectively legally reasonable in light of the legal rules that were clearly established at the time it was taken.x men,pataki,cir alterations omitted quoting anderson,at see also taravella town of wolcott,cir.
+plaintiffs challenge appellate jurisdiction on the ground that the qualified immunity inquiry in this case turns on a question of fact the reasonableness determination as to the scope of winfield consent.
+we have appellate jurisdiction over this interlocutory appeal.a district court denial of a claim of qualified immunity,to the extent that it turns on an issue of law,is an appealable final decision within the meaning of notwithstanding the absence of a final judgment.mitchell forsyth,d emphasis added.an appealable order therefore can not turn on a district court decision as to what occurred,or why an action was taken or omitted,but must related to disputes about the substance and clarity of law.ortiz jordan,d see also britt garcia,cir.
+the standard for measuring the scope of a suspect consent under the fourth amendment is that of objective reasonableness what would the typical reasonable person have understood by the exchange between the officer and the suspect florida jimeno,d.
+as there are no disputed facts in this case,plaintiffs argument is essentially that an appeals court lacks jurisdiction over an interlocutory appeal that turns on a determination of reasonableness.but in other contexts,courts hold that reasonableness may be a question of law when the facts are undisputed.see,kent,cir w hen the defendant accepts the plaintiff version of the facts,the defendant may immediately appeal the denial of a summary judgment motion because the objective reasonableness of the undisputed actions may then be susceptible to resolution as a matter of law.emphasis added citing salim proulx,cir huang attorney,cir i n the context of qualified immunity for constitutional torts,the reasonableness of a state actor conduct based on undisputed facts is subject to de novo review as a question of law.emphasis added vaughn,cir if the material predicate facts are undisputed,the reasonableness inquiry is a question of law.
+plaintiffs fail to cite a single case holding that an appellate court lacks jurisdiction to review a ruling on qualified immunity when the facts are undisputed instead,they cite cases such as hatheway thies,cir,in which the question was whether certain facts were disputed,and copar pumice morris,cir,in which 

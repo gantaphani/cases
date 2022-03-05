@@ -1,0 +1,42 @@
+monte and jane murray brought this action against american family mutual insurance company american family for failure to provide insurance benefits,breach of contract,and failure to procure insurance.the district court granted summary judgment to american family and the murrays now appeal.we affirm in part and reverse in part.
+the facts underlying this lawsuit are largely undisputed.on december,the car in which the murrays were riding collided with a car driven by linda hohnbaum.murray suffered serious injuries,and murray suffered damages as a result of her husband injuries.
+at the time of the accident,the murrays were insured by american family through six automobile policies,one for each vehicle owned by the murrays,including the vehicle involved in the collision.all six of the murrays insurance policies included uninsured motorist coverage of per person and per accident.four of the six policies also included underinsured motorist coverage of per person and per accident.the murrays also had a personal umbrella policy that provided liability coverage of,but it did not contain uninsured nor underinsured motorist coverage.
+the vehicle hohnbaum was driving at the time of the accident was a rental car owned by national car rental financing,lp national car rental.when hohnbaum rented the vehicle,she declined liability coverage through national car rental.at the time of the accident,hohnbaum was insured by allstate insurance company allstate with an automobile insurance policy issued in florida.the policy included liability coverage that insured hohnbaum,regardless of whether she owned the vehicle she was driving.
+the murrays brought an action against hohnbaum in the circuit court of johnson county,missouri,on january.after a bench trial,the court found hohnbaum liable for the accident and awarded damages of to murray and to murray,including prejudgment interest.following the judgment,allstate paid the murrays.
+national car rental was at the time of the accident.on september,the murrays attorney sent a letter to national car rental attorney,stating,in part 
+it is my understanding that you represent national car rental and that your client takes the position that there is no liability insurance or available through your client for the motor vehicle wreck of december.is that correct this letter is to advise that my clients will settle with national car rental for their injury claim and loss of services for 
+on september,national car rental attorney faxed a brief letter to the murrays attorney stating that he need ed clarification of your demand.on september,the murrays attorney responded by writing 
+i acknowledge receipt of your fax of september.apparently my letter of september,has caused confusion.accordingly,i am hereby withdrawing the offer to settle stated in my letter of september,as i understand it,allstate takes the position that national car rental under missouri law is responsible for which with allstate arguably satisfies missouri minimum liability requirements.do you agree please send me a letter setting forth national car rental position i thereafter will make a formal offer.
+a senior claims adjuster subsequently authorized national car rental attorney to pay the demanded due to the fact that the,when added to the to be paid by allstate,would satisfy the minimum liability coverage limit required by the state of missouri.
+on november,national car rental filed for chapter bankruptcy in delaware.however,the bankruptcy court approved the proposed payment of to the murrays.the murrays never accepted the offer from national car rental.
+on march,the murrays filed suit against american family in the circuit court of johnson county,missouri.the murrays sought payment of uninsured motorist benefits,or,in the alternative,payment of underinsured motorist benefits.the murrays also sought damages for breach of contract and failure to procure insurance related to the umbrella policy issued to them by american family.
+policy motorists coverage 
+the murrays uninsured motorist coverage stated,in all capitals,uninsured injury only each person each accident.the policy also stated 
+we will pay compensatory damages for bodily injury which an insured person is legally entitled to recover from the owner or operator of an uninsured motor vehicle.the bodily injury must be sustained by an insured person and must be caused by accident and arise out of the use of the uninsured motor vehicle.
+later in the section,the policies defined an uninsured motor vehicle 
+uninsured motor vehicle means a motor vehicle which is 
+insured at the time of the accident by a liability bond or policy with bodily injury liability limits below the minimum required by the financial responsibility law of the state in which your insured car is principally garaged.
+insured by a bodily injury liability bond or policy at the time of the accident but the company denies coverage or is or becomes insolvent within two years from the date of the accident.
+uninsured motor vehicle,however,does not mean a vehicle 
+owned by or furnished or available for the regular use of you or any resident of your household.
+owned or operated by a as considered by any financial responsibility law,motor carrier law,or similar law.
+missouri law requires that all automobile insurance issued within the state include uninsured motorist coverage.harris shelter mut.ins,citing.
+policy motorists coverage 
+four of the murrays policies included underinsured motorist coverage.these policies stated,in all capitals,underinsured motorist injury only each person each accident.the policy later explained 
+we will pay compensatory damages for bodily injury which an insured person is legally entitled to recover from the owner or operator of an underinsured motor vehicle.the bodily injury must be sustained by an insured person and must be caused by accident and arise out of the use of the underinsured motor vehicle.
+the policies defined an underinsured motor vehicle 
+underinsured motor vehicle means a motor vehicle which is insured by the liability bond or policy at the time of the accident which provides bodily injury liability limits less than the limits of the liability of this underinsured motorists coverage.
+underinsured motor vehicle,however,does not mean a vehicle 
+insured under the liability coverage of this policy.
+insured at the time of the accident by a liability bond or policy with bodily injury liability limits below the minimum specified by the financial responsibility law of the state in which your insured car is principally garaged.
+owned by or furnished or available for the regular use of you or a relative.
+owned or operated by a governmental unit or agency.
+owned or operated by a as considered by any financial responsibility law,motor carrier law,or similar law.
+which is insured by a bodily injury liability bond or policy at the time of the accident,but the bonding or insuring company denies coverage or is or becomes insolvent.
+ii.standard of review 
+we review a grant of summary judgment de novo,using the same standard as the district court.jackson.dep t of,vocational technical educ,cir.summary judgment shall be rendered forthwith if the pleadings,depositions,answers to interrogatories,and admissions on file,together with the affidavits,if any,show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.c.
+iii.analysis 
+uninsured motorists coverage 
+the murrays make various arguments in support of their contention that the vehicle hohnbaum was driving was an uninsured vehicle as defined by their american family policies,and that they deserve payment under this coverage.we take each argument in turn.
+amount of coverage 
+the murrays contend that the vehicle hohnbaum was driving lacked the minimum level of coverage required in missouri and was,therefore,an uninsured vehicle.as stated above,the american family policies defined an uninsured vehicle as a vehicle insured at the time of the accident by a liability bond or policy with bodily injury limits below the minimum required by the financial responsibility law of the state in which your car is pr

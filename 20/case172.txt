@@ -1,0 +1,46 @@
+habeas petitioner alton clarke appeals the district court decision denying him relief,under,from his massachusetts convictions for kidnapping and rape.clarke argues that the commonwealth unconstitutionally used the fact that he invoked his right to remain silent during a police interrogation against him at trial and clarke retrial,following two earlier trials on similar charges,violated double jeopardy.we reject these arguments and,having jurisdiction under,we affirm.
+background 
+factual background 
+viewed in the light most favorable to the verdict,see brewer marshall,cir,the evidence presented during clarke third trial established the following at approximately one night in march,the victim was walking from her home in roxbury,massachusetts,to a nearby restaurant.a car drove up onto the sidewalk,blocking the victim path.a man,unknown to the victim at the time but later identified as clarke,jumped out of the car,pointed a gun at the victim,and pushed her into the car.clarke then drove to a home at skyview lane,where he forced the victim into the home basement at gunpoint.there,clarke raped her by first inserting the gun into her vagina,then inserting his penis into her vagina,and finally by inserting his penis into her mouth.clarke spencer,d.
+several weeks later,the victim recognized and identified clarke as the man who raped her when,by chance,she ran into him at boston city hospital.after a chase by the victim boyfriend and hospital security guards,clarke was apprehended and taken into custody by boston police officers.id.
+at the time of his arrest,clarke told police that he knew the woman who lived at skyview lane,but that he had never taken another woman there and he had never seen the woman who was now accusing him of rape.at trial,however,clarke testified instead that he met the victim at a club and she propositioned him,offering sex for money.according to clarke,he accepted the offer,paid the woman half of their fee,and drove her to skyview lane,where he knew the owner would not be at home.clarke testified that,once they got to the house,he was unable to pay the rest of the fee and the woman,therefore,threatened to accuse clarke of rape.
+procedural background 
+state proceedings 
+the commonwealth tried clarke three times.
+first trial,occurring in january 
+massachusetts initially charged clarke with five offenses assault and battery with a dangerous weapon,kidnapping,and three counts of aggravated rape,one count for each different form of penetration.clarke first trial resulted in a mistrial when the jury failed to reach a unanimous verdict.id.
+second trial,occurring in august 
+clarke was retried in august,on the same charges.id.the jury convicted him of kidnapping and two counts of the lesser included offense of rape.see id.at.the jury acquitted clarke of the aggravated portion of the rape charges,as well as the charge of assault and battery with a dangerous weapon and the third rape count.see id.at.on direct appeal,however,the massachusetts appeals court reversed clarke three convictions and remanded his case for another trial,after concluding the commonwealth had improperly used clarke silence against him at trial.see commonwealth clarke,further review denied,table.
+third trial,occurring in august 
+clarke third trial,the one at issue here,occurred in august.the commonwealth,this time,tried clarke only on two charges of rape and one count of kidnapping.see clarke,d at.the third jury convicted clarke of all three offenses,and the court sentenced clarke to twelve years in prison.see id.according to clarke,that sentence was later reduced to eight to ten years.aplt.br.at.
+on direct appeal,the massachusetts appeals court affirmed clarke convictions,commonwealth clarke,table,wl,unpublished,and the massachusetts supreme judicial court denied further review,commonwealth clarke,table,unpublished.
+federal habeas proceedings 
+in march,clarke filed his federal habeas petition pursuant to.the district court denied relief,but granted clarke a certificate of appealability coa,see c,on the claims he is currently pursuing on appeal.
+ii.discussion 
+whether the commonwealth used clarke invocation of his right to remain silent during a police interrogation against him at.standard of review 
+because the massachusetts appeals court addressed and rejected the merits of this claim,see clarke,wl,at,a federal court shall not grant clarke habeas relief on this basis unless the state appellate court 
+adjudication of the claim 
+resulted in a decision that was contrary to,or involved an unreasonable application of,clearly established federal law,as determined by the supreme court of the united states or 
+resulted in a decision that was based on an unreasonable determination of the facts in light of the evidence presented in the state court proceeding.
+d.this court reviews the district court decision to deny relief de novo.see john russo,cir.
+the government may not use at trial the fact that a defendant,after receiving warnings,invoked his right to remain silent.see anderson charles,d doyle ohio,d miranda,at.a defendant can,however,knowingly and voluntarily waive his right to remain silent,see miranda,at,by,for example,voluntarily answering questions after receiving miranda warnings.see charles,at montejo louisiana,d addressing waiver of fifth amendment right to counsel after miranda warnings.but such waiver is not an proposition.united states,cir.a suspect may invoke his right to remain silent in any manner at any time before or during interrogation.see miranda,at.the first circuit has further concluded that the words the defendant uses to assert the privilege are themselves protected by it,at.
+clarke contends that at trial the commonwealth,in three ways,improperly used at trial the fact that he invoked his right to remain silent during an interrogation.
+detective gavin testimony 
+clarke first argues that the commonwealth improperly used his silence during its direct examination of detective donna gavin.gavin testified that when she interviewed clarke,following his arrest,clarke told her that he had never seen the victim before and that he had never brought any female guest to skyview lane.gavin asked clarke how it was,then,that the victim could describe the home located at skyview lane.but,before gavin could explain to the jury clarke answer to that question,the court sustained defense counsel objection because it was in response to that question that clarke invoked his right to remain silent.gavin then testified simply that the interview had ended shortly thereafter.
+the massachusetts appeals court rejected clarke claim that detective gavin direct testimony amounted to improper use of his invoking his right to remain silent at the interview because the trial court sustained the objection and gavin never answered the question.see clarke,wl,at.that determination was not contrary to,nor an unreasonable application of,clearly established supreme court precedent.see greer miller,d.
+clarke next argues that the prosecutor improperly used clarke silence while him.on direct examination,clarke testified,contrary to detective gavin,that he told the detective that he had once brought a prostitute to skyview lane and that when he could not pay her,she threatened to accuse him of rape.during,the following exchange occurred 
+it your testimony 
+it my testimony today before the jurors that i did told detective gavin i brought someone,a guest,a prostitute,at skyview lane.
+sir,is it true that you told detective gavin that you never brought anyone to skyview lane,right sir 
+totally impossible.
+and sir,when she asked you,she asked you,did she,sir,how the woman would know the inside and outside of that house,right 
+defense counsel objection 
+the court sustained.
+prosecutor your honor,may i be heard at sidebar 
+the court no,you may not.sustained.move on,let go.
+prosecutor your honor,may i be heard at side bar 
+the court no,you may not.
+q.you were asked about the description of the house,correct,clarke 
+defense attorney objection.
+the court sustained.
+sir,you agree with me that detective gavin would have asked that question if you had said that you had brought someone to skyview l

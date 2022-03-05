@@ -1,0 +1,42 @@
+glaxo wellcome,appeals the decision of the united states district court for the southern district of florida,holding on summary judgment that united states patent the patent is valid but not infringed by the bupropion products of andrx pharmaceuticals,we conclude that the district court erred in its construction of the claims.on the correct claim construction,we vacate the summary judgment of noninfringement and remand for further proceedings.
+background 
+the products at issue are the antidepressant medicine having the brand name wellbutrin sr and the medicine having the brand name zyban.the active ingredient of both products is bupropion hydrochloride.glaxo manufactures and sells sustained release formulations of these products sustained release extends the medicinal action of the bupropion so that less frequent doses are required,and avoids the surge of bupropion that had occasionally caused seizures upon ingestion.sustained release formulations must maintain an effective level of the medicine in the bloodstream for an optimum period without unacceptable deviation in pharmacologic activity.
+andrx filed two abbreviated new drug applications anda seeking approval of generic counterparts of the glaxo sustained release products,asserting identity of active ingredient and properties with those of wellbutrin sr and zyban.andrx also filed a paragraph iv certification,asserting that the andrx products do not infringe the glaxo patent or that the patent is invalid 
+j a an abbreviated application for a new drug shall contain 
+vii a certification,in the opinion of the applicant and to the best of his knowledge,with respect to each patent which claims the listed drug referred to in clause i or which claims a use for such listed drug for which the applicant is seeking approval under this subsection and for which information is required to be filed under subsection b or c of this section 
+iv that such patent is invalid or will not be infringed by the manufacture,use,or sale of the new drug for which the application is submitted 
+the paragraph iv certification is designed to create a statutory act of infringement,in order to enable adjudication of issues of patent validity and infringement in the absence of actual manufacture,sale,or use of the product 
+e.it shall be an act of infringement to submit 
+a an application under section j of the federal food,drug,and cosmetic act or described in section b of such act for a drug claimed in a patent or the use of which is claimed in a patent,
+if the purpose of such submission is to obtain approval under such act to engage in the commercial manufacture,use,or sale of a drug or veterinary biological product claimed in a patent or the use of which is claimed in a patent before the expiration of such patent.
+glaxo duly filed suit against andrx for infringement of the patent,in accordance with these statutory provisions.
+claim construction 
+appellate review of the district court claim construction is plenary,see markman westview instruments,d,cybor fas technologies,en banc,as is our review of the grant of summary judgment.ecolab,envirochem.
+the following claims of the patent are representative 
+a controlled sustained release tablet comprising to mg of bupropion hydrochloride and hydroxypropyl methylcellulose,
+the amount of hydroxypropyl methylcellulose to one part of bupropion hydrochloride being to 
+and said tablet having a surface to volume ratio of to cm 
+and said tablet having a shelf life of at least one year at to and to relative humidity,
+said tablet releasing between about and percent of bupropion hydrochloride in water in hour,between about and percent in hours and not less than about percent in hours.
+a controlled sustained release tablet comprising an admixture of mg of bupropion hydrochloride and hydroxypropyl methylcellulose which after oral administration of a single one of said tablets in adult men produces plasma levels of bupropion as free base ranging between the minimum and maximum levels as shown in over hours.
+a sustained release tablet containing a mixture of a mg of bupropion hydrochloride and b means for releasing between about and of bupropion hydrochloride in one hour,between and in hours and not less than in eight hours in distilled water said means comprising hydroxypropyl methylcellulose.
+in determining the meaning and scope of patent claims,the court gives primary consideration to the specification and the prosecution history,and may consider the prior art and technical treatises and dictionaries.if relevant and helpful,the court may receive the testimony of experts in the field of the invention.see.
+the issues of claim construction and infringement focused on the controlled release agent,hydroxypropyl methylcellulose hpmc.hpmc is defined in the handbook of pharmaceutical additives as follows 
+definition propylene glycol ether of methyl cellulose 
+properties white swells in water to produce a clear to opalescent visc.colloidal sol nonionic,insol.in anhyd.alcohol,ether,chloroform sol.in most polar solvs.
+trade names benecel hydroxypropyl methylcellulose methocel premium methocel premium methocel methocel premium methocel cr methocel premium methocel premium methocel methocel e premium methocel premium 
+ash,handbook of pharmaceutical additives.
+the specification describes the hydroxypropyl methylcellulose release agent as follows 
+this invention is directed to control sustained release sr tablets containing bupropion hydrochloride as the drug or active ingredient,preferably hydroxypropyl methylcellulose methocel for controlling drug release rate,and cysteine hydrochloride or glycine hydrochloride.
+methocel is the brand name for hydroxypropyl methylcellulose hpmc from dow chemical.other companies also supply hpmc.
+in order to prepare the controlled sustained release sr tablets of this invention,particles of bupropion hydrochloride are preferably blended with microcrystalline cellulose and hydroxypropyl methylcellulose methocel to form an admixture of blended powders.
+in the practice of this invention,for every part by weight of bupropion hydrochloride,the amount of hydroxypropyl methylcellulose is to and more preferably to parts by weight 
+patent.the specification describes the hpmc used in the examples as follows 
+hydroxypropyl methylcellulose,usp used in the examples,conforms to to methoxyl substitution and to hydroxypropyl substitution.the preferred nominal viscosity of solution in water is not less than centipoise and not more than centipoise.it is supplied by dow chemical company,midland,as methocel premium cr.
+during prosecution of the patent,the examiner required that all the claims be limited to hydroxypropyl methylcellulose as the release agent.for example,claim,as originally submitted,was as follows 
+a controlled sustained release tablet comprising an admixture of of bupropion hydrochloride and means for providing a shelf life of at least one year and after oral administration of a single one of said tablets in adult men producing plasma levels of bupropion as free base ranging substantially between the minimum and maximum levels as shown in over twenty four hours.
+the examiner stated 
+the rate of release is directly related to the release retarding effect of hydroxypropylmethylcellulose.while other excipients have been disclosed,the particular cellulose is considered critical for controlled sustained release and should be incorporated into the independent claims.the disclosure of a single species does not provide a basis for claiming a generic concept.
+the applicant acquiesced,and limited all the claims to hydroxypropyl methylcellulose.however,the examiner did not require limiting the hydroxypropyl methylcellulose to any specific grade or molecular weight.what the examiner required was 
+applicants are claiming a tablet which provides a distinct release profile.the advantages provided by the unique tablet differ from an instant release tablet.the limitations of claims are considered critical and should be incorporated into claim for proper enablement.
+in response,the applicant amended claim to include the limitations said tablet releasing between about and percent of bupropio

@@ -1,0 +1,54 @@
+linda walden walden appeals the district court affirmance of the bankruptcy court removal orders,removing her as trustee in debtor james walker walker chapter bankruptcy proceeding.this appeal presents three issues of first impression in this circuit whether this court has jurisdiction over a district court affirmance of a bankruptcy court removal of a trustee,whether a chapter debtor,with no pecuniary interest in the estate,is a party in interest that can seek removal of the trustee,and whether a bankruptcy judge can remove a trustee sua sponte for lying under oath.for the reasons stated below,we affirm.
+background 
+walker filed for voluntary bankruptcy in april of claiming total assets of and liabilities of.in june of that year,the creditors elected walden to be the trustee.walden submitted a verified statement to accompany united states trustee report of disputed election under bankruptcy rule b b verified statement dated june.in the verified statement,walden stated that she had no connections with any of the creditors except that she was the receiver in another related matter.the verified statement read 
+i,linda walden,the undersigned,hereby state the following under penalty of perjury,section,in connection with the pending trustee election in this case 
+i have the following connections with the debtor,creditors,any other party in interest,their respective attorneys and accountants,the party in interest,their respective attorneys and accountants,the united states trustee for region,any person employed in the office of the united states trustee none except as disclosed herein 
+i was appointed and currently serve as state court receiver for the creditors in the matter styled eleanor cole,plaintiff,james walker,defendant case before the honorable circuit court judge andrews currently pending and stayed in the circuit court of the seventeenth judicial circuit in and for broward county.
+emphasis added.
+on july,the bankruptcy court held a ratification hearing.at that hearing,walker asserted that walden had a relationship with carl shuhi,the president of florida caliper manufacturers fcm the creditor with the second largest claim in the bankruptcy a conflict of interest and that walden was,therefore,disqualified from serving as the trustee.walden denied having any relationship with shuhi she testified as follows 
+q have you rendered services on shuey sic behalf for any of his entities 
+a no.i do not do personal work for shuey sic.
+q have you received any money in any form from shuey sic at any point in time 
+a shuey sic does not pay me.
+q has shuey sic given you any money at any point in time 
+a shuey sic has not given me money.
+q what is your business relationship with shuey sic,none 
+a i do not have a direct business relationship with shuey sic,other than the fact that he is a creditor in this particular case,and i have met with shuey sic to get information in the receivership.
+q in the receivership,you met with sheuy sic to get information in the receivership.under the receivership order,are you the fiduciary of eleanor cole 
+a i am the fiduciary was appointed the receiver for cole and the creditors.
+q so when you say you do have any direct business relationship with shuey sic,do you have some indirect business relationship 
+a as i said,i was the appointee for the creditors.
+q do you render any services for any of shuey sic business entities 
+a no,i believe i answered that question.
+walden was then ratified as the trustee.on august,walker filed an emergency motion to remove the trustee.he alleged that walden had a conflict of interest and had lied about it on the verified statement and at the july,ratification hearing.specifically,walker alleged that walden had performed accounting services for shuhi his corporate entities,that she had prepared an expert report for shuhi in a state court action in,and that she served as registered agent for two of shuhi business entities.
+at a hearing on the motion to remove,the following evidence was presented 
+several years prior to the bankruptcy,shuhi sued the simon law firm in state court.utrecht,shuhi lawyer in that state court action,testified that in representing shuhi during that case,shuhi told utrecht that walden would be the expert in the litigation.utrecht testified that he spoke with walden and met with her several times for this purpose.moreover,elaine gatsos,an attorney for shuhi,testified that she became one of shuhi attorneys following walden referral and introduction in.gatsos testified that she met with both walden and shuhi in february of for the initial client meeting at shuhi office.further,gatsos testified that several times after the initial meeting,walden indicated that she was filling out answers to expert interrogatories related to the state court action handled by utrecht.
+particularly damaging to walden were shuhi depositions taken in.in two depositions from that year,shuhi testified that walden was the expert in the case and that walden was both fcm accountant and shuhi personal accountant.on june,shuhi had testified as follows 
+q defense counsel does florida caliper manufacturers file corporate tax returns 
+q who files the tax returns,or who prepares them 
+q what the name of the present cpa 
+a linda walden.
+a i believe so.
+q do you file personal tax returns every year 
+a yes.my cpa does the work.
+q who is your personal cpa 
+a linda walden.
+q do you have a total for the amount of damages that you claimed have resulted from these matters involving the same subject matter being pursued separately 
+a i have to refer that to my accountant.
+q and who is your accountant for this purpose 
+a linda walden.
+q has walden been retained at this point to provide any testimony or calculate any damages with regard to this litigation 
+also,at an august,deposition shuhi had been asked about damages in the case.shuhi stated that he could not from his memory discuss the specifics of his basis for damages but referred counsel to his accountant,linda walden.
+additionally,walker introduced a plethora of other evidence indicating that walden and shuhi had a relationship prior to walden submission of the verified statement and her oral testimony at the removal hearing.this evidence included court documents from the state court action filed with the court in stating that shuhi entities were invoking the privilege with respect to documents requested of walden documents filed with the florida secretary of state in indicating that walden was fc registered agent and documents identifying walden as the registered agent of centurion.walden was still centurion registered agent on july,day of the ratification hearing in which she testified that she had no business relationship with shuhi or any of his entities.
+walden maintained that she had no relationship with shuhi prior to when she became the receiver in the walker bankruptcy.she testified 
+q appellee counsel have you ever been you ever been an employee of carl shuhi or any of his entities 
+a no,i have never been an employee of carl shuhi or any of his entities.
+q have you ever worked for carl shuhi or any of his entities 
+a i have never worked for carl shuhi or any of his entities.
+q you previously testified that you have never been retained by carl shuhi or any of his entities is that correct 
+a i do not know if that was my testimony however,i have not been retained by carl shuhi or any of his entities.
+q and you have never rendered any services,as i suppose is both your testimony and carl shuhi testimony as of october for carl shuhi or any of his entities,correct 
+a as of october,i have never rendered any services of carl shuhi.
+q or any of his entities 
+a or any of his entities.
+on november,after five days of hearings on the motion to remove,the bankruptcy judge found that walden failed to disclose connections she had with shuhi and that she lied about these connections both on the verified statement and during oral testimony before the court.the judge granted the motion to remove orally and requested walker attorney to prepare the written order.concerned about a potentially long delay between the november hearing and the entry of the formal remova
